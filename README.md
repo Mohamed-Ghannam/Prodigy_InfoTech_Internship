@@ -19,7 +19,7 @@ This project involves predicting house prices based on various features of the h
 
 - **Feature Selection**: Using Lasso for selecting the most relevant features, reducing model complexity, and enhancing prediction accuracy. (Advanced point)
 
-- **Modeling**: Implementing multiple machine learning models, including Ridge, Lasso,  linear regression and more advanced techniques 
+- **Modeling**: Implementing multiple machine learning models, including Ridge, Lasso,  linear regression, Stochastic Gradient Descent and more advanced techniques 
 like random forests and XGBoost.
 - **Model Evaluation**: Comparing models using performance metrics such as Root Mean Squared Error (RMSE) and R-squared.
 
